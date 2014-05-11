@@ -1,3 +1,7 @@
+### Purpose of this fork
+
+HTTP header responses parsed to return rate limits.
+
 #Foursquare Objective-C API 2.0
 
 ###Motivation
