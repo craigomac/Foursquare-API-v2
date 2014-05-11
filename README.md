@@ -1,3 +1,7 @@
+# Notes about fork
+
+The purpose of this fork is to add information about rate limits from the HTTP headers returned in API responses.
+
 #Foursquare Objective-C API 2.0
 
 ###Motivation
