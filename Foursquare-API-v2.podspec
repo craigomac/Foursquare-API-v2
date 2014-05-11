@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Foursquare-API-v2"
+  s.name         = "Foursquare-API-v2-craigomac"
   s.version      = "1.4.5"
   s.summary      = "Objective-C Foursquare API v2"
   s.homepage     = "https://github.com/craigomac/Foursquare-API-v2"
